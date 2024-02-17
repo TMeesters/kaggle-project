@@ -22,5 +22,9 @@ The objective is to predict the revenue of shops, using a machine learning model
 
 * school_holiday : Binary variable equal to 0 if there was a school holiday that day and 1 if not.
 
-
+## Process
 For this first:
+* Load our data
+* EDA and Data cleaning
+* Splitting the data into test and train
+* Review different models and its R2 (Linear regression, Decision Tree, Bagging regression, random forest and Adaboost regressor)
