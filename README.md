@@ -28,3 +28,4 @@ For this first:
 * EDA and Data cleaning
 * Splitting the data into test and train
 * Review different models and its R2 (Linear regression, Decision Tree, Bagging regression, random forest and Adaboost regressor)
+![Screenshot 2024-02-17 at 16 15 40](https://github.com/gonzalo711/kaggle-project/assets/44572646/daa5c3c5-9bde-4b80-9f12-d8c32764a0dc)
