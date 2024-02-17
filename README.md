@@ -24,3 +24,4 @@ For this first:
 ![Screenshot 2024-02-17 at 16 15 40](https://github.com/gonzalo711/kaggle-project/assets/44572646/daa5c3c5-9bde-4b80-9f12-d8c32764a0dc)
 
 We will do our prediction for the validation dataset with out Adaboost regressor. You can find the prediction in _predicted_sales.xlsx_
+[predicted_sales.xlsx](https://github.com/gonzalo711/kaggle-project/files/14319239/predicted_sales.xlsx)
