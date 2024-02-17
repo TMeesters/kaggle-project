@@ -1,10 +1,11 @@
 # kaggle-project
 
-# Objective
+## Objective
 The objective is to predict the revenue of shops. Each row of our data contains the following information
 
 The objective is to predict the revenue of shops, using a machine learning model. Each row of our data contains the following information:
 
+## Dataset
 * shop_ID : Shop's unique identifier.
 
 * day_of_the_week : Encoded from 0 to 6.
@@ -20,5 +21,6 @@ The objective is to predict the revenue of shops, using a machine learning model
 * state_holiday : Encoded 0, a, b, c indicating if there was a state holiday at all (0 if not), and otherwise, the number indicates which state holiday it was.
 
 * school_holiday : Binary variable equal to 0 if there was a school holiday that day and 1 if not.
+
 
 For this first:
